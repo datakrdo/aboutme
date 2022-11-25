@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrKrdo
 - 👀 I’m interested in Data Analytics, Data Science and Biochemistry  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on Healthcare industry
 - 📫 How to reach me jcbatman@gmail.com
 
